@@ -57,7 +57,7 @@ mapAuthor = "CipSoft"
 
 -- MySQL
 mysqlHost = "168.119.48.49"
-mysqlUser = "gothic"
+mysqlUser = "wojtek"
 mysqlPass = "qq4fqgsx"
 mysqlDatabase = "tibia"
 mysqlPort = 3306
